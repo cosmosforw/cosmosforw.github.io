@@ -59,3 +59,5 @@
 [다른 웹사이트로 가는 링크](https://book.naver.com/bookdb/book_detail.nhn?bid=14740358)
 
 ![이미지 설명글](http://blogfiles.naver.net/20111104_151/gybaekfamily_1320373475430l1lMd_JPEG/%C7%AA%B5%E9%B8%BB4.jpg)
+
+![컴퓨터에 있는 사진](assets/profile.png)
