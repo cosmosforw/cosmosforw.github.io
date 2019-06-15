@@ -49,8 +49,8 @@
 1. 1학년
 2. 2학년
 3. 3학년
-    1. 1학년 1학기
-    2. 2학년 2학기
+     1. 1학년 1학기
+     2. 2학년 2학기
 4. 4학년
 
 
@@ -60,4 +60,4 @@
 
 ![이미지 설명글](http://blogfiles.naver.net/20111104_151/gybaekfamily_1320373475430l1lMd_JPEG/%C7%AA%B5%E9%B8%BB4.jpg)
 
-![컴퓨터에 있는 사진](assets/profile.png)
+![컴퓨터에 있는 사진](assets/puppy.png)
